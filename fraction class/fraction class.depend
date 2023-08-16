@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683442534 source:d:\swe-r3-c++\fraction class\main.cpp
+	<iostream>
+	"fraction.h"
+
+1683377051 d:\swe-r3-c++\fraction class\include\fraction.h
+	<iostream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683712830 source:d:\swe-r3-c++\ass_polimorphism\main.cpp
+	<iostream>
+	"polymorohism.h"
+
+1683650318 d:\swe-r3-c++\ass_polimorphism\include\polymorohism.h
+	<iostream>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683719885 source:d:\swe-r3-c++\inheritance\main.cpp
+	<iostream>
+	"shape.h"
+	"square.h"
+	"rectangle.h"
+	"circle.h"
+
+1683719393 d:\swe-r3-c++\inheritance\include\shape.h
+
+1683711090 d:\swe-r3-c++\inheritance\include\square.h
+
+1683713132 d:\swe-r3-c++\inheritance\include\rectangle.h
+
+1683711090 d:\swe-r3-c++\inheritance\include\circle.h
+

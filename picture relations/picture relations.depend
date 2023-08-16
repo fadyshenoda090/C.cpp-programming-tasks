@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1683669155 source:d:\swe-r3-c++\picture relations\main.cpp
+	<iostream>
+	"picture.h"
+
+1683530677 d:\swe-r3-c++\picture relations\include\picture.h
+	"square.h"
+	"rectangle.h"
+	"circle.h"
+
+1683490982 d:\swe-r3-c++\picture relations\include\square.h
+
+1683490982 d:\swe-r3-c++\picture relations\include\rectangle.h
+
+1683493472 d:\swe-r3-c++\picture relations\include\circle.h
+
